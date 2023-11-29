@@ -1,0 +1,12 @@
+name: ptemcee-example
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - ptemcee
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - scipy
+prefix: /Users/wfarr/miniconda3/envs/ptemcee-example
